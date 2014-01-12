@@ -1,0 +1,1 @@
+/usr/local/bin/scala -classpath bin:`find $HOME/projects/picsync/lib -name '*jar' | xargs | sed -e 's/ /:/g'` org.scalatest.run picsync.PicSyncTestSuite reusablecoder.PredicatesTestSuite

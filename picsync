@@ -1,0 +1,9 @@
+#!/bin/bash
+
+SRC=$1
+DEST=$2
+PRJ_DIR=`dirname $0`
+echo $PRJ_DIR
+CLASSPATH=$PRJ_DIR/bin:`find ~/projects/picsync/lib -name '*jar' | xargs | sed -e 's/ /:/g'`
+scala -classpath $CLASSPATH picsync.PicSync "$SRC" "$DEST"
+

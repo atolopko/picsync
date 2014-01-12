@@ -1,0 +1,1 @@
+/usr/local/bin/scalac -d $HOME/projects/picsync/bin -classpath `find $HOME/projects/picsync/lib -name '*jar' | xargs | sed -e 's/ /:/g'` `find $HOME/projects/picsync/src -name '*scala'`

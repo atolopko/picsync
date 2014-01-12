@@ -1,0 +1,33 @@
+/usr/local/dev/workspace/picsync/bin:/usr/local/dev/eclipse-jee-helios/configuration/org.eclipse.osgi/bundles/1017/1/.cp/lib/scala-library.jar:/usr/local/dev/eclipse-jee-helios/configuration/org.eclipse.osgi/bundles/1017/1/.cp/lib/scala-dbc.jar:/usr/local/dev/eclipse-jee-helios/configuration/org.eclipse.osgi/bundles/1017/1/.cp/lib/scala-swing.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/gnome-java-bridge.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/ext/pulse-java.jar:/usr/local/dev/commons-io-1.2/commons-io-1.2.jar:/usr/local/dev/joda-time-1.5.2/joda-time-1.5.2.jar:/usr/local/dev/eclipse-jee-helios/plugins/org.junit_3.8.2.v3_8_2_v20100427-1100/junit.jar:/usr/local/dev/scalatest-1.2/junit-4.1.jar:/usr/local/dev/scalatest-1.2/scalatest-1.2.jar
+-------
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/src/picsync/PicSync.scala
+/usr/local/dev/workspace/picsync/src/picsync/ImageFile.scala -> /usr/local/dev/workspace/picsync/src/picsync/ImageFile.scala
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala
+-------
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSync$$anonfun$5.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSyncTestSuite$$anonfun$2.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSync.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSync$.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSyncTestSuite$$anonfun$3.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSync$$anonfun$4.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSyncTestSuite.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSyncTestSuite$$anonfun$1.class
+/usr/local/dev/workspace/picsync/src/picsync/PicSync.scala -> /usr/local/dev/workspace/picsync/bin/picsync/PicSync$$anonfun$main$1.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/PredicatesTestSuite$$anonfun$1.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/Predicates$$anonfun$conjunction$1.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/PredicatesTestSuite.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/Predicates$.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/PredicatesTestSuite$$anonfun$1$$anonfun$3.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/Predicates$$anonfun$conjunction$1$$anonfun$apply$1.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/Predicates.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/Predicates.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/PredicatesTestSuite$$anonfun$1$$anonfun$2.class
+/usr/local/dev/workspace/picsync/src/picsync/ImageFile.scala -> /usr/local/dev/workspace/picsync/bin/picsync/Image.class
+/usr/local/dev/workspace/picsync/src/picsync/ImageFile.scala -> /usr/local/dev/workspace/picsync/bin/picsync/Image$ImageFile.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/DirTree.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/DirTree$.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/DirTree$$anonfun$2.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/DirTree$$anonfun$1.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/DirTree$$anonfun$collate$1.class
+/usr/local/dev/workspace/picsync/src/reusablecoder/FileUtils.scala -> /usr/local/dev/workspace/picsync/bin/reusablecoder/DirTree$$anonfun$list$1.class
