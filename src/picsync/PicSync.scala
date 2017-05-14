@@ -65,7 +65,7 @@ object PicSync {
 class PicSyncTestSuite extends org.scalatest.FunSuite {
   test("imageFileParentDirectoryPath") {
     val f = File.createTempFile("picsync", ".txt")
-    f.setLastModified(new DateTime(2010, 01, 03, 0, 0, 0, 0).getMillis)
+    f.setLastModified(new DateTime(2010, 1, 3, 0, 0, 0, 0).getMillis)
     val expected = new File("2010/01/03")
     assert(PicSync.imageFileParentDirectoryPath(f) === expected)
   }
@@ -78,9 +78,9 @@ class PicSyncTestSuite extends org.scalatest.FunSuite {
   }
 
   test("read/write timestamp") {
-    PicSync.recordTimeStamp(new File("/tmp/"), new DateTime(2010, 01, 03, 0, 0, 0, 0).getMillis)
+    PicSync.recordTimeStamp(new File("/tmp/"), new DateTime(2010, 1, 3, 0, 0, 0, 0).getMillis)
     assert(new File("/tmp/", PicSync.LastCopiedTimeStampFileName).exists)
-    assert(new DateTime(PicSync.readTimeStamp(new File("/tmp"))) === new DateTime(2010, 01, 03, 0, 0, 0, 0))
+    assert(new DateTime(PicSync.readTimeStamp(new File("/tmp"))) === new DateTime(2010, 1, 3, 0, 0, 0, 0))
   }
   
 }

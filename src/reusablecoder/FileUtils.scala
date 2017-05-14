@@ -23,7 +23,7 @@ object DirTree {
     }
     else {
       if (!f.isDirectory) {
-        error("cannot create directory " + f + " due to extant file of same name");
+        sys.error("cannot create directory " + f + " due to extant file of same name");
       } 
     }
   }  
